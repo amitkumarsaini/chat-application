@@ -1,6 +1,6 @@
 # Dummy Chat Application
 
-This project is created for show dummy chat.
+This project is created to show a dummy chat.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ This project is created for show dummy chat.
 
 ## Introduction
 
-Briefly introduce your project, mentioning its purpose and main functionality. You can also include badges here, such as build status, code coverage, etc.
+Dummy chat application with the help of react.js, redux toolkit, typescript, html, scss
 
 ## Features
 
@@ -20,13 +20,10 @@ Briefly introduce your project, mentioning its purpose and main functionality. Y
 3. fake chat.
 
 ## Installation
-
-Provide step-by-step instructions on how to install and set up the project locally. Include any prerequisites or dependencies required.
-
 1. Clone the repository:
-
-```bash
-git clone <repository-url>
+git clone https://github.com/amitkumarsaini/chat-application.git
 cd chat-application
-run command npm install
-run command npm start
+
+2. Run the project
+run the command npm install
+run the command npm start
