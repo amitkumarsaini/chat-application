@@ -8,7 +8,6 @@ This project is created for show dummy chat.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 
 ## Introduction
 
