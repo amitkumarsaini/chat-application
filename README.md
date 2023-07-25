@@ -21,9 +21,9 @@ Dummy chat application with the help of react.js, redux toolkit, typescript, htm
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/amitkumarsaini/chat-application.git
-cd chat-application
+   1. git clone https://github.com/amitkumarsaini/chat-application.git
+   2. cd chat-application
 
-2. Run the project
-run the command npm install
-run the command npm start
+3. Run the project
+ 1. npm install
+ 2. npm start
